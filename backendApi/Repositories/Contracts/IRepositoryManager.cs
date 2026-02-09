@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Repositories.Contracts
 {
-    internal interface IRepositoryManager
+    public interface IRepositoryManager
     {//Unit of work
         IProductRepository Product { get; }
         void Save();

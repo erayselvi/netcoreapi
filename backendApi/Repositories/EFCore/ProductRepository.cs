@@ -22,8 +22,9 @@ namespace Repositories.EFCore
             FindAll(trackChanges)
             .OrderBy(p => p.Id);
 
-        public IQueryable<Product> GetOneProductById(int id, bool trackChanges) =>
-            FindByCondition(p  => p.Id.Equals(id), trackChanges);
+        public Product? GetOneProductById(int id, bool trackChanges) =>
+            FindByCondition(p  => p.Id.Equals(id), trackChanges)
+            .SingleOrDefault();
 
     }
 }
