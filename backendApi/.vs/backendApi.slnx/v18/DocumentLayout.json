@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryManager.cs",
               "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\EFCore\\RepositoryManager.cs",
               "RelativeToolTip": "Repositories\\EFCore\\RepositoryManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T09:34:43.07Z",
               "EditorCaption": ""
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryManager.cs",
               "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\Contracts\\IRepositoryManager.cs",
               "RelativeToolTip": "Repositories\\Contracts\\IRepositoryManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T09:33:21.349Z",
               "EditorCaption": ""
@@ -68,8 +68,7 @@
               "RelativeToolTip": "Repositories\\EFCore\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T16:06:08.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T16:06:08.966Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "Repositories\\EFCore\\RepositoryBase.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAswBsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T12:03:01.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-04T12:03:01.432Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "Repositories\\Contracts\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T14:36:58.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T14:36:58.029Z"
             }
           ]
         }

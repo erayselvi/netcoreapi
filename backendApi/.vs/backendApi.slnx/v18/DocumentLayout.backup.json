@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\repositories\\efcore\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\repositories\\efcore\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\repositories\\efcore\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\repositories\\efcore\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\EFCore\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\EFCore\\RepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T09:34:43.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T09:33:21.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\EFCore\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\EFCore\\ProductRepository.cs",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\EFCore\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryBase.cs",
