@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\backendapi\\extentions\\servicesextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|solutionrelative:backendapi\\extentions\\servicesextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\repositories\\efcore\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,32 +43,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Program.cs",
+              "RelativeDocumentMoniker": "backendApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Program.cs",
+              "RelativeToolTip": "backendApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T11:34:01.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicesExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Extentions\\ServicesExtentions.cs",
+              "RelativeDocumentMoniker": "backendApi\\Extentions\\ServicesExtentions.cs",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Extentions\\ServicesExtentions.cs*",
+              "RelativeToolTip": "backendApi\\Extentions\\ServicesExtentions.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T11:13:49.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RepositoryManager.cs",
               "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\EFCore\\RepositoryManager.cs",
               "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryManager.cs",
               "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\EFCore\\RepositoryManager.cs",
               "RelativeToolTip": "Repositories\\EFCore\\RepositoryManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T09:34:43.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IRepositoryManager.cs",
               "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\Contracts\\IRepositoryManager.cs",
               "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryManager.cs",
               "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\Contracts\\IRepositoryManager.cs",
               "RelativeToolTip": "Repositories\\Contracts\\IRepositoryManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T09:33:21.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\EFCore\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\EFCore\\ProductRepository.cs",
@@ -73,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\EFCore\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryBase.cs",
@@ -86,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\Contracts\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Contracts\\IProductRepository.cs",
