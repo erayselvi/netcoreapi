@@ -1,5 +1,6 @@
 ﻿using Repositories.EFCore;
 using Microsoft.EntityFrameworkCore;
+using Repositories.Contracts;
 namespace backendApi.Extentions
 {
     public static class ServicesExtentions
@@ -9,6 +10,10 @@ namespace backendApi.Extentions
             services.AddDbContext<RepositoryContext>(options =>
             options.UseSqlServer(configuration.GetConnectionString("sqlConnection"))
             );
+
+        public static void ConfigureRepositoryManager(this IServiceCollection services) =>
+            services.AddScoped<IRepositoryManager, RepositoryManager>();
+
 
     }
 }
