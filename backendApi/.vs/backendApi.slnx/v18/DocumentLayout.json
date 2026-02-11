@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\backendapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|solutionrelative:backendapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{658185E0-5092-4807-AEA1-263C26F4D7AC}|Services\\Services.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658185E0-5092-4807-AEA1-263C26F4D7AC}|Services\\Services.csproj|solutionrelative:services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\backendapi\\extentions\\servicesextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|solutionrelative:backendapi\\extentions\\servicesextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{658185E0-5092-4807-AEA1-263C26F4D7AC}|Services\\Services.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\services\\contracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658185E0-5092-4807-AEA1-263C26F4D7AC}|Services\\Services.csproj|solutionrelative:services\\contracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{658185E0-5092-4807-AEA1-263C26F4D7AC}|Services\\Services.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658185E0-5092-4807-AEA1-263C26F4D7AC}|Services\\Services.csproj|solutionrelative:services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,40 +30,54 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServicesExtentions.cs",
-              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Extentions\\ServicesExtentions.cs",
-              "RelativeDocumentMoniker": "backendApi\\Extentions\\ServicesExtentions.cs",
-              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Extentions\\ServicesExtentions.cs",
-              "RelativeToolTip": "backendApi\\Extentions\\ServicesExtentions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Services\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Services\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Services\\ProductManager.cs",
+              "RelativeToolTip": "Services\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T14:53:12.87Z",
+              "WhenOpened": "2026-02-11T16:08:47.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\Contracts\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Contracts\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\Contracts\\IProductRepository.cs",
-              "RelativeToolTip": "Repositories\\Contracts\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Services\\Contracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Services\\Contracts\\IProductService.cs",
+              "RelativeToolTip": "Services\\Contracts\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T12:57:11.701Z"
+              "WhenOpened": "2026-02-11T16:08:41.293Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "backendApi\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "backendApi\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAASwHYAAAAjAAAAAAAAAA==",
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Services\\ServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T12:19:05.28Z",
+              "WhenOpened": "2026-02-11T15:55:17.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repositories",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-11T15:41:47.506Z",
               "EditorCaption": ""
             }
           ]
