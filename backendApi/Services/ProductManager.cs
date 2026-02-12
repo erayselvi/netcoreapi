@@ -32,7 +32,7 @@ namespace Services
             _manager.Save();
         }
 
-        public IEnumerable<Product> GetAllProducts(bool trackChanges)
+        public IEnumerable<Product> GetAllProducts(bool trackChanges) //salt okunur return sağlar.
         {
             return _manager.Product.GetAllProduct(trackChanges);
         }
@@ -56,6 +56,7 @@ namespace Services
             entity.Title = product.Title;
             entity.Price = product.Price;
             _manager.Product.Update(entity);
+            _manager.Save();
         }
     }
 }

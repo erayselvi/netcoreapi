@@ -1,6 +1,8 @@
 ﻿using Repositories.EFCore;
 using Microsoft.EntityFrameworkCore;
 using Repositories.Contracts;
+using Services.Contracts;
+using Services;
 namespace backendApi.Extentions
 {
     public static class ServicesExtentions
@@ -14,6 +16,8 @@ namespace backendApi.Extentions
         public static void ConfigureRepositoryManager(this IServiceCollection services) =>
             services.AddScoped<IRepositoryManager, RepositoryManager>();
 
+        public static void ConfigureServiceManager(this IServiceCollection services) =>
+            services.AddScoped<IServiceManager, ServiceManager>();
 
     }
 }

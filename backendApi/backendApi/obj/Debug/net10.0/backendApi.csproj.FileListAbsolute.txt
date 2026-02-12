@@ -144,3 +144,16 @@ C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\obj\Debug\net10.
 C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\obj\Debug\net10.0\backendApi.pdb
 C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\obj\Debug\net10.0\backendApi.genruntimeconfig.cache
 C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\obj\Debug\net10.0\ref\backendApi.dll
+C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\bin\Debug\net10.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\bin\Debug\net10.0\Newtonsoft.Json.Bson.dll
+C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\bin\Debug\net10.0\Services.dll
+C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\bin\Debug\net10.0\Services.pdb
+C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\bin\Debug\net10.0\Presentation.dll
+C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\bin\Debug\net10.0\Presentation.pdb
+C:\Users\Eray\Desktop\Projects\netcoreapi\backendApi\backendApi\obj\Debug\net10.0\backendApi.MvcApplicationPartsAssemblyInfo.cs

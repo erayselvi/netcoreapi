@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Services
 {
-    internal class ServiceManager : IServiceManager
+    public class ServiceManager : IServiceManager
     {
         private readonly Lazy<IProductService> _productService;
         public ServiceManager(IRepositoryManager repositoryManager)

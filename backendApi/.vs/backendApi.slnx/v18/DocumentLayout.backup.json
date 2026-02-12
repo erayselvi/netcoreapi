@@ -3,16 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\backendapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|solutionrelative:backendapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|solutionrelative:backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\backendapi\\extentions\\servicesextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|solutionrelative:backendapi\\extentions\\servicesextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C4EE0BA-49A6-4CC4-B960-742E5BFB658F}|Presentation\\Presentation.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\presentation\\controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EE0BA-49A6-4CC4-B960-742E5BFB658F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\backendapi\\backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|solutionrelative:backendapi\\backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EE0BA-49A6-4CC4-B960-742E5BFB658F}|Presentation\\Presentation.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EE0BA-49A6-4CC4-B960-742E5BFB658F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +33,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\appsettings.json",
+              "RelativeDocumentMoniker": "backendApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\appsettings.json",
+              "RelativeToolTip": "backendApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T11:09:25.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAO8UAAAAAAAAAAArwAQVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-12T01:05:02.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "backendApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\backendApi.csproj",
+              "RelativeDocumentMoniker": "backendApi\\backendApi.csproj",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\backendApi.csproj",
+              "RelativeToolTip": "backendApi\\backendApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-12T01:01:50.483Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ServicesExtentions.cs",
-              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Extentions\\ServicesExtentions.cs",
-              "RelativeDocumentMoniker": "backendApi\\Extentions\\ServicesExtentions.cs",
-              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Extentions\\ServicesExtentions.cs",
-              "RelativeToolTip": "backendApi\\Extentions\\ServicesExtentions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Program.cs",
+              "RelativeDocumentMoniker": "backendApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Program.cs",
+              "RelativeToolTip": "backendApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T14:53:12.87Z",
+              "WhenOpened": "2026-02-12T00:57:52.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\Contracts\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Contracts\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\Contracts\\IProductRepository.cs",
-              "RelativeToolTip": "Repositories\\Contracts\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA1AAAAAAAAAA==",
+              "Title": "ProductsControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Presentation\\Controllers\\ProductsControllers.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\ProductsControllers.cs",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Presentation\\Controllers\\ProductsControllers.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\ProductsControllers.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwG0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T12:57:11.701Z"
+              "WhenOpened": "2026-02-12T00:28:26.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "backendApi\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "backendApi\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAASwHYAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Presentation\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Presentation\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Presentation\\AssemblyReference.cs",
+              "RelativeToolTip": "Presentation\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T12:19:05.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T00:27:43.027Z"
             }
           ]
         }

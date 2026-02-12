@@ -1,28 +1,31 @@
-﻿using Azure;
-using Entities.Models;
+﻿using Entities.Models;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
-using Repositories.Contracts;
-using Repositories.EFCore;
-using System.Diagnostics.Eventing.Reader;
-namespace backendApi.Controllers
+using Services.Contracts;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Presentation.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("api/products")]
     public class ProductController : ControllerBase
     {
-        private readonly IRepositoryManager _manager;
+        private readonly IServiceManager _manager;
 
-        public ProductController(IRepositoryManager manager)//Neden RepositoryManager değil? Ahmet ustayı istemek yerine müsait ustayı çağırır!
+        public ProductController(IServiceManager manager)
         {
             _manager = manager;
         }
+
+
         [HttpGet]
         public IActionResult GetAllProducts()
         {
             try
             {
-                var products = _manager.Product.GetAllProduct(false);
+                var products = _manager.ProductService.GetAllProducts(false);
                 return Ok(products);
             }
             catch (Exception ex) { throw new Exception(ex.Message); }
@@ -33,7 +36,7 @@ namespace backendApi.Controllers
             try
             {
                 var product = _manager
-                    .Product
+                    .ProductService
                     .GetOneProductById(id, false);
                 if (product is null)
                     return NotFound(); //404
@@ -53,7 +56,7 @@ namespace backendApi.Controllers
                 if (product is null)
                     return BadRequest(); //400
 
-                _manager.Product.Create(product);
+                _manager.ProductService.CreateOneProduct(product);
 
                 return StatusCode(201, product);
             }
@@ -70,17 +73,13 @@ namespace backendApi.Controllers
         {
             try
             {
-                var entity = _manager
-                    .Product
-                    .GetOneProductById(id, true);
-                if (entity is null)
-                    return NotFound(); //404
-                else if (id != product.Id)
+                if (product is null)
                     return BadRequest(); //400
-                entity.Title = product.Title;
-                entity.Price = product.Price;
 
-                _manager.Save();
+                _manager
+                    .ProductService
+                    .UpdateOneProduct(id, product, true);
+
                 return Ok(product);
             }
             catch (Exception ex)
@@ -92,19 +91,11 @@ namespace backendApi.Controllers
         }
 
         [HttpDelete("{id:int}")]
-
         public IActionResult DeleteOneProduct([FromRoute(Name = "id")] int id)
         {
             try
             {
-                var entity = _manager
-                    .Product
-                    .GetOneProductById(id, true);
-                if (entity is null)
-                    return NotFound(new { StatusCode = 404, message = $"Id ile eşleşen product yok:{id}" });
-                _manager.Product.DeleteOneProduct(entity);
-                _manager.Save();
-
+                _manager.ProductService.DeleteOneProduct(id, false);
                 return NoContent();
             }
             catch (Exception)
@@ -121,14 +112,13 @@ namespace backendApi.Controllers
             try
             {
                 var entity = _manager
-                            .Product
+                            .ProductService
                             .GetOneProductById(id, true);
                 if (entity is null)
                     return NotFound(new { StatusCode = 404, message = $"Id ile eşleşen product yok:{id}" });
 
                 product.ApplyTo(entity);
-                _manager.Product.Update(entity);
-                _manager.Save();
+                _manager.ProductService.UpdateOneProduct(id, entity, true);
                 return NoContent();
 
             }
@@ -139,4 +129,5 @@ namespace backendApi.Controllers
             }
         }
     }
+
 }
