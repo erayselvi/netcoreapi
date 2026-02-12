@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C4EE0BA-49A6-4CC4-B960-742E5BFB658F}|Presentation\\Presentation.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\presentation\\controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C4EE0BA-49A6-4CC4-B960-742E5BFB658F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\backendapi\\migrations\\20260212234944_startpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|solutionrelative:backendapi\\migrations\\20260212234944_startpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C4EE0BA-49A6-4CC4-B960-742E5BFB658F}|Presentation\\Presentation.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C4EE0BA-49A6-4CC4-B960-742E5BFB658F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\backendapi\\contextfactory\\repositorycontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|solutionrelative:backendapi\\contextfactory\\repositorycontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\backendapi\\backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|solutionrelative:backendapi\\backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\repositories\\efcore\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F8C963-9E21-4913-A836-BBFE69F645B2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{494E2E43-757D-2D5F-1B51-BF2742664A95}|backendApi\\backendApi.csproj|c:\\users\\eray\\desktop\\projects\\netcoreapi\\backendapi\\backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -30,71 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\appsettings.json",
-              "RelativeDocumentMoniker": "backendApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\appsettings.json",
-              "RelativeToolTip": "backendApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-12T11:09:25.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "backendApi.csproj",
-              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\backendApi.csproj",
-              "RelativeDocumentMoniker": "backendApi\\backendApi.csproj",
-              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\backendApi.csproj",
-              "RelativeToolTip": "backendApi\\backendApi.csproj",
+              "DocumentIndex": 0,
+              "Title": "20260212234944_startPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Migrations\\20260212234944_startPoint.cs",
+              "RelativeDocumentMoniker": "backendApi\\Migrations\\20260212234944_startPoint.cs",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Migrations\\20260212234944_startPoint.cs",
+              "RelativeToolTip": "backendApi\\Migrations\\20260212234944_startPoint.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-12T01:01:50.483Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:49:45.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Program.cs",
-              "RelativeDocumentMoniker": "backendApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\Program.cs",
-              "RelativeToolTip": "backendApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\EFCore\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryContext.cs",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Repositories\\EFCore\\RepositoryContext.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RepositoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T00:57:52.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsControllers.cs",
-              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Presentation\\Controllers\\ProductsControllers.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\ProductsControllers.cs",
-              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Presentation\\Controllers\\ProductsControllers.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\ProductsControllers.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAwwG0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T00:28:26.203Z",
+              "WhenOpened": "2026-02-12T23:48:36.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AssemblyReference.cs",
-              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Presentation\\AssemblyReference.cs",
-              "RelativeDocumentMoniker": "Presentation\\AssemblyReference.cs",
-              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\Presentation\\AssemblyReference.cs",
-              "RelativeToolTip": "Presentation\\AssemblyReference.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "RepositoryContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\ContextFactory\\RepositoryContextFactory.cs",
+              "RelativeDocumentMoniker": "backendApi\\ContextFactory\\RepositoryContextFactory.cs",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\ContextFactory\\RepositoryContextFactory.cs",
+              "RelativeToolTip": "backendApi\\ContextFactory\\RepositoryContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T00:27:43.027Z",
+              "WhenOpened": "2026-02-12T21:56:46.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\appsettings.json",
+              "RelativeDocumentMoniker": "backendApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Eray\\Desktop\\Projects\\netcoreapi\\backendApi\\backendApi\\appsettings.json",
+              "RelativeToolTip": "backendApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T23:39:56.483Z",
               "EditorCaption": ""
             }
           ]
